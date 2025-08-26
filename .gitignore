@@ -85,3 +85,6 @@ jspm_packages/
 
 # TernJS port file
 .tern-port
+
+# Project documents (client requirements)
+projuct-documents.txt
